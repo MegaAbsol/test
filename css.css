@@ -1,0 +1,70 @@
+/* css thing */
+html, body {
+margin:0px;
+padding:0px;
+font-family: Ubuntu, "Trebuchet MS", sansserif;
+background-color:black;
+color:white;
+}
+header div {
+margin:0px;
+padding:0px;
+vertical-align:middle;
+
+height:50px;
+}
+header {
+background-color:#000033;
+color:white;
+height:50px;
+}
+.hfloat{
+display:inline-block;
+width:100px;
+text-align:center;
+border-right:1px solid #000055;
+line-height:50px;
+background-color:#000033;
+}
+.hfloat:hover{
+background-color:#3366cc;
+}
+header a{
+color:white;
+text-decoration:none;
+}
+
+.logotitle{
+/*float:left;*/
+display:inline-block;
+width:150px;
+text-align:center;
+border-right:1px solid #000055;
+line-height:50px;
+}
+
+#leftblock {
+text-align:left;
+display:inline-block;
+width:65%;
+margin:0px;
+padding:0px;
+}
+#rightblock{
+text-align:right;
+display:inline-block;
+width:34%;
+margin:0px;
+padding:0px;
+}
+#top{
+background-color:#001122;
+height:300px;
+width:1000px;
+margin:0 auto;
+text-align:center;
+}
+h1,h2,h3,h4,h5,h6{
+padding:0px;
+margin:0px;
+}
